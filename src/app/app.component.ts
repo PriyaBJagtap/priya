@@ -26,6 +26,9 @@ export class AppComponent {
       url: "/assets/images/image4.jpg"
     },
     {
+      url: "/assets/images/image4.jpg"
+    },
+    {
       url: "/assets/images/image5.jpg"
     },
     {
